@@ -1,0 +1,20 @@
+export const products = [
+{
+    id:"1",
+    name:"Grace",
+    qty:5,
+    price:2
+},
+{
+    id:"2",
+    name:"Malon",
+    qty:4,
+    price:3
+},
+{
+    id:"3",
+    name:"Lime",
+    qty:7,
+    price:2
+}
+]
